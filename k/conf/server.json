@@ -1,0 +1,51 @@
+{
+	"log" : {
+		"catalog" : "/",
+		"controller" : "log",
+		"method" : "_r2d",
+		"param" : "",
+		"delay" : 0
+	},
+	"updategamebymain" : {
+		"catalog" : "/",
+		"controller" : "updategamebymain",
+		"method" : "_index",
+		"param" : "",
+		"delay" : 0
+	},
+	"sharepic" : {
+		"catalog" : "/",
+		"controller" : "sharepic",
+		"method" : "_index",
+		"param" : "",
+		"delay" : 0
+	},
+	"delformid" : {
+		"catalog" : "/",
+		"controller" : "delformid",
+		"method" : "_index",
+		"param" : "",
+		"delay" : 0
+	},
+	"statistics" : {
+		"catalog" : "/",
+		"controller" : "statistics",
+		"method" : "_index",
+		"param" : "",
+		"delay" : 0
+	},
+	"wxmediaid" : {
+		"catalog" : "/",
+		"controller" : "wxmediaid",
+		"method" : "_index",
+		"param" : "",
+		"delay" : 0
+	},
+	"sendusernews" : {
+		"catalog" : "/",
+		"controller" : "sendusernews",
+		"method" : "_index",
+		"param" : "",
+		"delay" : 0
+	}
+}
